@@ -1,0 +1,10 @@
+{
+  "name": "Calculator App",
+  "short_name": "Calculator",
+  "description": "Professional Calculator - Web & Mobile",
+  "start_url": "/calculator/",
+  "display": "standalone",
+  "background_color": "#1e3c72",
+  "theme_color": "#1e3c72",
+  "orientation": "portrait"
+}
