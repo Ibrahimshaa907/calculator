@@ -1,22 +1,16 @@
 {
   "name": "Calculator App",
   "short_name": "Calculator",
-  "description": "Simple Calculator PWA",
+  "description": "Professional Calculator - Web & Mobile",
   "start_url": "/calculator/",
   "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#007bff",
+  "background_color": "#1e3c72",
+  "theme_color": "#1e3c72",
   "orientation": "portrait",
   "icons": [
     {
       "src": "/calculator/icons/icon-192x192.png",
       "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any maskable"
-    },
-    {
-      "src": "/calculator/icons/icon-192x192.png",
-      "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
     }
